@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header id="main-header">
       <div id="logo">
-        <Link href="/">NextCaching</Link>
+        <Link href="/">MessageMe</Link>
       </div>
       <nav>
         <ul>
